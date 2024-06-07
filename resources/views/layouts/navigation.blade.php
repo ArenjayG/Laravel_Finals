@@ -21,10 +21,17 @@
             </li>
 
             <li class="nav-item">
+<<<<<<< HEAD
                 <a href="{{ route('users.index') }}" class="nav-link">
                     <i class="nav-icon fas fa-users"></i>
                     <p>
                         {{ __('Users') }}
+=======
+                <a href="{{ route('employee.index') }}" class="nav-link">
+                    <i class="nav-icon fas fa-users"></i>
+                    <p>
+                        {{ __('Employee Management') }}
+>>>>>>> 7311e1f24ccdfbd8c0d1244988015706445a9dd0
                     </p>
                 </a>
             </li>

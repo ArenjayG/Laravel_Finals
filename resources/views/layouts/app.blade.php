@@ -82,6 +82,7 @@
     <!-- /.control-sidebar -->
 
     <!-- Main Footer -->
+<<<<<<< HEAD
     <footer class="main-footer">
         <!-- To the right -->
         <div class="float-right d-none d-sm-inline">
@@ -90,6 +91,9 @@
         <!-- Default to the left -->
         <strong>Copyright &copy; 2014-2021 <a href="https://adminlte.io">AdminLTE.io</a>.</strong> All rights reserved.
     </footer>
+=======
+   
+>>>>>>> 7311e1f24ccdfbd8c0d1244988015706445a9dd0
 </div>
 <!-- ./wrapper -->
 
